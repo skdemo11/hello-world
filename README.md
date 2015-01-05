@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-training
+training so i can figure out what GitHub does exactly.
